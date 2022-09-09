@@ -1,1 +1,1 @@
-# ejemplos_manim1
+# ejemplos_manim1. En este repositorio pienso colgar algo de código para poder contar con él en todo momento. Para poder seguir aprendiendo aún en mi trabajo. Aunque es para uso personal, puedes usarlo sin problema. Solo toma en cuenta que seguramente la mayoría será código no simplificado, no optimizado, que busca el propósito de ir construyendo una ruta propia de aprendizaje.   DrChandrak  ago 2022
